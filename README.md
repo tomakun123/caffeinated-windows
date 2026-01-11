@@ -12,6 +12,7 @@ A lightweight Windows tray app that prevents your computer from sleeping — ins
 
 ## Screenshots
 ![Tray Menu](screenshots/tray.png)
+![Wizard Setup](screenshots/wizardSetup.png)
 
 ## Installation
 1. Download the latest installer from **Releases**
