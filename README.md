@@ -12,6 +12,7 @@ CaffeinatedWin is a lightweight Windows tray app that prevents your PC from slee
 
 ## Screenshots
 ![Tray Menu](screenshots/tray.png)
+![Wizard Installation](screenshots/wizardSetup.png)
 
 ## Installation
 1. Download the latest installer from **Releases**
