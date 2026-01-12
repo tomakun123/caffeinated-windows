@@ -1,6 +1,6 @@
 # CaffeinatedWin ☕ (Windows)
 
-A lightweight Windows tray app that prevents your computer from sleeping — inspired by macOS `caffeinate`.
+CaffeinatedWin is a lightweight Windows tray app that prevents your PC from sleeping — inspired by macOS caffeinate
 
 ## Features
 - Runs in the system tray
@@ -23,6 +23,21 @@ A lightweight Windows tray app that prevents your computer from sleeping — ins
 - No admin rights required
 - No background services
 - Uses native Windows power APIs
+
+## FAQ
+
+**Does this install a background service?**  
+No. It runs only as a tray app.
+
+**Does it require admin privileges?**  
+No.
+
+**Is my data collected?**  
+No. The app does not collect or transmit any data.
+
+**What happens when I quit or uninstall?**  
+Normal sleep behavior is fully restored.
+
 
 ## License
 MIT
