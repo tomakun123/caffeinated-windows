@@ -1,3 +1,5 @@
+<img src="screenshots/logo.png" width="96" align="right" alt="CaffeinatedWin logo">
+
 # CaffeinatedWin ☕ (Windows)
 
 CaffeinatedWin is a lightweight Windows tray app that prevents your PC from sleeping — inspired by macOS caffeinate
@@ -7,6 +9,8 @@ CaffeinatedWin is a lightweight Windows tray app that prevents your PC from slee
 - Prevents system sleep
 - Optional “keep display on”
 - Timer mode (30 / 60 / 120 minutes)
+- "Turn off display" button
+- Hotkeys: global chord (default `Ctrl+/` then `Q` quit / `D` display off / `C` toggle), plain keys when the window is focused; all rebindable
 - Optional run at startup
 - Clean exit restores normal sleep behavior
 
@@ -38,6 +42,11 @@ No. The app does not collect or transmit any data.
 **What happens when I quit or uninstall?**  
 Normal sleep behavior is fully restored.
 
+
+## What's new in 1.1.0
+- Fixed "Turn off display" (it silently did nothing on 64-bit builds)
+- Hotkeys: global chord `Ctrl+/` then `Q` (quit) / `D` (display off) / `C` (toggle); plain keys when the window is focused; all rebindable from the new Hotkeys card
+- New logo everywhere (tray, window, taskbar, installer)
 
 ## License
 MIT
