@@ -44,6 +44,7 @@ Normal sleep behavior is fully restored.
 
 
 ## What's new in 1.1.0
+- Settings are saved between sessions (auto-start, keep display on, launch at Windows startup) — fixes #1
 - Fixed "Turn off display" (it silently did nothing on 64-bit builds)
 - Hotkeys: global chord `Ctrl+/` then `Q` (quit) / `D` (display off) / `C` (toggle); plain keys when the window is focused; all rebindable from the new Hotkeys card
 - New logo everywhere (tray, window, taskbar, installer)
